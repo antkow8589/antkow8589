@@ -1,5 +1,7 @@
-## Hi there 👋 I'm Anton from Earth.
-<h3 align="center">Computer discoverer</h3>
+<div id="header" align="center">
+    <h1>Hi there, I'm  Anton </h1>
+    <h3>Full Stack Developer</h3>
+</div>
 
 <!--
 **antkow8589/antkow8589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

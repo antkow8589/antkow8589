@@ -1,6 +1,5 @@
 <div id="header" align="left">
-    <h1>Hi there, I'm  Anton </h1>
-    <h3>Full Stack Developer</h3>
+    <h3>Hi there, I'm  Anton </h3>
 </div>
 
 <!--

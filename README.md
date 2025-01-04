@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 ## 📫 Connect with me
 - Email: antkow@mail.ru
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?userantkow8589)](https://git.io/streak-stats)
+
 Thank you for visited my profile!

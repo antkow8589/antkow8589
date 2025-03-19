@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with me
 - Email: antkow@mail.ru
+## Achievements
+[![codewars](https://www.codewars.com/users/antkow/badges/large)](https://www.codewars.com/users/antkow)
 
 
 
